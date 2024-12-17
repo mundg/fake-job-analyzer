@@ -54,3 +54,39 @@ This will launch the Streamlit app, and you should see the app running in your d
 - notebooks/: Contains notebook used for model building
 - scripts/: Contains Python scripts used for data processing, model training, and evaluation.
 - app.py: The Streamlit app for the Fake Job Analyzer.
+
+
+
+#### Sample Fake Job Listing: 
+1.
+```
+No interview required - guaranteed acceptance!
+        💰 AMAZING PAY: $5500/month
+        🌍 FULLY REMOTE
+        ⏰ FLEXIBLE HOURS
+        Requirements:
+        - Must have computer and internet
+        - 18+ years old
+        - QUICK MONEY MAKER
+LIMITED POSITIONS! ACT NOW!
+```
+
+2.
+```
+Immediate start with no interview required! Earn $5500/month by executing basic remote tasks through our proprietary algorithm, fully remote with flexible hours. Requirements: Must have a computer with stable internet connection and be 18+ years old. Quick income opportunity via our seamless backend integration. Limited positions available – Apply now using the /quickstart API!
+```
+
+3.
+```
+Immediate Hiring – No Interview Required!
+Earn $9500/month working from home as a Call Center Representative.
+Fully Remote – Flexible Hours, Start Now!
+Requirements:
+
+Must have a computer, headset, and internet connection
+18+ years old
+No experience needed, just basic communication skills
+Work with our AI-powered customer support system for quick call resolutions
+Apply Now to start earning – Limited positions available, apply before it’s too late!
+Guaranteed approval – click to activate your account!
+```
