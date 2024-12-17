@@ -15,7 +15,7 @@ pip install virtualenv
 once `virtualenv` is installed, create a new environment by running:
 
 ```bash
-pip virtualenv myenv
+virtualenv myenv
 ```
 
 ## 3. Activate the virtual environment
